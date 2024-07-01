@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.navbar{
+    background-image: linear-gradient(to right,rgb(221, 72, 159),rgb(202, 110, 165));
+}
+body{
+    background-image: url(./background.jpg);
+}
+.loginbtn{
+    background-color: rgb(92, 94, 252);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin: 5px 1430px;
+
+}
+.banner{
+    background-image: url(./banner.jpg);
+    background-size: cover;
+    padding-top: 200px;
+    height: 600px;
+    padding: 10px 10px;
+    margin: 0px 0px;
+    
+}
+.header{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 250px;
+    font-weight: bolder;
+    font-family: "Press Start 2P";
+}
+.container{
+    display: flex;
+}
+.box{
+    background-image: linear-gradient( rgb(21, 21, 50), rgb(56, 56, 146));
+    width: 300px;
+    height: 400px;
+    padding: 10px 10px;
+    margin: 25px 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow:  2px 4px 8px 1px rgba(17, 0, 255, 0.2), 2px 6px 20px 2px rgba(134, 111, 248, 0.19);
+}
+.image{
+    background-image: url('./gta5.jpg');
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    border: 2px solid rgb(0, 0, 0);
+}
+.image1{
+    background-image: url('./rdr.jpg');
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    border: 2px solid rgb(0, 0, 0);
+}
+.image2{
+    background-image: url('./cyberpunk.jpg');
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    border: 2px solid rgb(0, 0, 0);
+}
+.image3{
+    background-image: url('./er.jpg');
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    border: 2px solid rgb(0, 0, 0);
+}
+.image4{
+    background-image: url('./fortnite.jpg');
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    border: 2px solid rgb(0, 0, 0);
+}
+.image5{
+    background-image: url('./gow.jpg');
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    border: 2px solid rgb(0, 0, 0);
+}
+.image6{
+    background-image: url('./witcher.jpg');
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    border: 2px solid rgb(0, 0, 0);
+}
+.image7{
+    background-image: url('./doom.jpg');
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    border: 2px solid rgb(0, 0, 0);
+}
+a{
+    color: white;
+}
+.footer{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+.copy{
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+.hxb{
+    color: rgb(200, 114, 250);
+}
